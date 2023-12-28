@@ -1,3 +1,3 @@
 # apna-sapna
-This is for learning purpose
-AUthor - Yasar Shaikh
+This is for learning purpose,
+Author - Yasar Shaikh
